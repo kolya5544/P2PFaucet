@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "P2PFaucet": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "API_KEY": "x",
+        "API_SECRET": "y",
+        "TESTNET": "true",
+        "SALT": "randomkeymash"
+      }
+    }
+  }
+}
